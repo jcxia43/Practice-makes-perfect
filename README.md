@@ -1,4 +1,4 @@
-DaiZiGuiZhong
+Daily Practice
 =============
 
-Solutions of DaiZiGuiZhong on WeiXin platform.
+Algorithms practices and some solutions of interesting problems.
